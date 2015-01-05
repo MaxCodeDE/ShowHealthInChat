@@ -1,0 +1,8 @@
+name: ShowHealth
+autohr: MaxCode
+version: 1.0
+main: me.maxcode.ShowHealth.ShowHealth
+commands:
+     shic:
+          usage:
+          default: op
