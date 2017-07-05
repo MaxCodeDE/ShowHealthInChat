@@ -1,7 +1,7 @@
 ShowHealthInChat
 ================
 
-Mehr Infos: http://max-bremer.info/?page_id=305
+Mehr Infos: http://blog.max-bremer.info/?page_id=305
 
 
 Bukkit Plugin
